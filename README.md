@@ -1,3 +1,3 @@
-# hello-world
-for testing purposes only
-I am looking forward to fishing opener
+# Check Directory exists
+This checks if directory exists if not it checks for a second directory
+
