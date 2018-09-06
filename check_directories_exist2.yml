@@ -22,7 +22,7 @@
 
    - name: check JUNK directory exists 
      stat:
-       path: /home/kbalfanz/junk
+       path: /home/kbalfanz/junk111
      register: dir_junk
 
    - name: Add a line to cronjob
